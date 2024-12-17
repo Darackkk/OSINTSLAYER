@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# OSINTSLAYER
-=======
+
 # OSINTSLAYER
 
 **OSINTSLAYER** is a powerful and modular **OSINT (Open Source Intelligence)** toolkit written in Python. It allows cybersecurity professionals, ethical hackers, and enthusiasts to perform reconnaissance on domains, IP addresses, and more.
@@ -118,4 +116,4 @@ GitHub: [Darackkk](https://github.com/Darackkk)
 
 ## ✨ License
 This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it!
->>>>>>> 35b1d79 (README changed)
+
