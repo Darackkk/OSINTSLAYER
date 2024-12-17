@@ -1,4 +1,4 @@
-# osint_recon_toolkit/modules/whois_lookup.py
+
 
 import whois
 
